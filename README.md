@@ -1,7 +1,7 @@
 README
 ================
 
-A repository for storing and updating [my personal webpage](https://github.com/juhuyan/juliaHuyan.github.io). This is created with [Github pages](https://pages.github.com/).
+A repository for storing and updating [my personal webpage](https://github.com/juhuyan/github.io.git). This is created with [Github pages](https://pages.github.com/).
 
 
 ## Creating a Github pages webpage
